@@ -1,4 +1,4 @@
-export default function App() {
+export default function app() {
   return (
     <div>
       <h1>Welcome to Drishti Portal 🚀</h1>
