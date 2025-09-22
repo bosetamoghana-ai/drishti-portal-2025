@@ -4,7 +4,7 @@ This is a ready-made frontend for the Project Drishti portal (student risk dashb
 It is a Vite React app using Tailwind CSS, Recharts and PapaParse for CSV parsing.
 
 ## What is included
-- `src/App.jsx` — main React app (dashboard, sidebar, CSV upload)
+- `src/app.jsx` — main React app (dashboard, sidebar, CSV upload)
 - `src/main.jsx` — entry
 - `src/index.css` — Tailwind directives
 - `public/` — images (logo.png, hero.png, avatar.png)
